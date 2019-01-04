@@ -1,0 +1,28 @@
+{
+  "name": "numbering-patterns",
+  "version": "1.0.0",
+  "description": "Convert numbers to a specified numbering pattern and vice-versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LSVH/numbering-patterns.git"
+  },
+  "keywords": [
+    "library",
+    "numbers",
+    "patterns"
+  ],
+  "author": "LSVH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LSVH/numbering-patterns/issues"
+  },
+  "homepage": "https://github.com/LSVH/numbering-patterns#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
